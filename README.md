@@ -25,21 +25,6 @@ A project that integrates **computer vision** and **numerical methods** to track
 - **Methods:** Numerical integration (Forward Euler, RK4, Trapezoidal), Newton’s shooting method  
 - **Physics Simulation:** Real-time trajectory prediction, collision response, and damping  
 
-## Usage
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/ball-interception-system.git
-```
-2. Install dependencies:
-```
-pip install -r requirements.txt
-```
-3. Run the simulation:
-```
-python main.py
-```
-
 ## Project Insights
 
 - Demonstrates integration of computer vision with advanced numerical methods.
